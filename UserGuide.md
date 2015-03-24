@@ -176,7 +176,7 @@ nodes  ->  (expr) | ^nodes | [@ X R +R -R] nodes | scheme:nodes | name | *
 |child|`>`|_`parents`_ `>` _`childs`_|Matches all _`childs`_ that are childs of _`parents`_|
 |parent|`<`|_`childs`_ `<` _`parents`_|Matches all _`parents`_ that are parents of _`childs`_|
 |add|`+>`|_`parents`_ `+>` _`childs`_|Add _`parents`_ to _`childs`_|
-|remove|`->`|_`parents`_ -> _`childs`_|Remove _`parents`_ from _`childs`_|
+|remove|`->`|_`parents`_ `->` _`childs`_|Remove _`parents`_ from _`childs`_|
 
 |not|`^`|`^`_`uris`_|Matches all URIs that are not _`uris`_|
 |:--|:--|:----------|:-------------------------------------|
