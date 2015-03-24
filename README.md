@@ -8,7 +8,6 @@ Additionally, the label-engine can be imported as a module or queried as a platf
 
 Welcome cooperation!!
 
-UserGuide
 
 Screenshots: http://labels-project.blogspot.com/
 
